@@ -4,22 +4,22 @@ Although usually a case-by-case based approval system that must be passed throug
 
 **Approved**
 
-ECON 413
-EENG 437
-LING 225
-LING 229
-LING 380
-MB&B 452
-PHIL 427
-S&DS 352
-S&DS 365
-S&DS 468
-S&DS 669
+- ECON 413
+- EENG 437
+- LING 225
+- LING 229
+- LING 380
+- MB&B 452
+- PHIL 427
+- S&DS 352
+- S&DS 365
+- S&DS 468
+- S&DS 669
 
 **Not Approved**
 
-MGT  656/650
-MENG 400
-S&DS 361
+- MGT  656/650
+- MENG 400
+- S&DS 361
 
 Another thing to note is that usually the department will only approve one outside elective per student. These particular classes are also only the case for the pure CS major, and may change for students majoring in one of the dual majors such as CS and Math or Computing and the Arts. 
